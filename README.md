@@ -24,11 +24,17 @@ Abra o arquivo index.html no seu navegador para visualizar a página.
 Edite o código conforme necessário para modificar o conteúdo ou o estilo.
 
 Estrutura de Diretórios
+
 projeto-sitee/
+
 ├── index.html         # Arquivo principal da página web
+
 ├── css/
+
 │   └── style.css      # Arquivo de estilos CSS
+
 └── images/            # Pasta com imagens do site
+
 
 Exemplo de Código
 
